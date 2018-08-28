@@ -3,4 +3,4 @@ The two moons may a problem for Wolfman
 But the Mummy will appreciate the lack of humility
 Venus may be a better option in the end
 We should look more closely at it
-I added a line on Github
+I changed a line in Github
